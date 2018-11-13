@@ -1,0 +1,15 @@
+/* header h1 {
+  display: block;
+  width: 100%;
+  text-align: center;
+  padding: 30px 0;
+} */
+
+#short-bio {
+  padding: 100px;
+}
+
+ul {
+  padding-left: 0;
+  list-style-type: none;
+}
