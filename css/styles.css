@@ -6,10 +6,14 @@
 } */
 
 #short-bio {
-  padding: 100px;
+  padding: 120px;
 }
 
 ul {
   padding-left: 0;
   list-style-type: none;
+}
+
+#photo {
+  padding: 0;
 }
