@@ -21,12 +21,45 @@ ul li strong {
 
 h1 {
   padding-bottom: 40px;
+  font-family: 'Ubuntu', sans-serif;
+}
+
+h1 a {
+  text-decoration: none;
+  padding: 40px;
+  font-family: 'Ubuntu', sans-serif;
+  text-align: center;
+  color: black;
+}
+
+h1 a:hover {
+  text-decoration: none;
+  padding: 40px;
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+  font-weight: bold;
+}
+
+ul li a {
+  text-decoration: none;
+  padding: 40px;
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+}
+
+ul li a:hover {
+  text-decoration: none;
+  padding: 40px;
+  font-family: 'Ubuntu', sans-serif;
+  color: black;
+  font-weight: bold;
 }
 
 h2 {
   text-align: center;
   padding: 30px 0;
   font-size: 46px;
+  font-family: 'Ubuntu', sans-serif;
 }
 
 #photo {
