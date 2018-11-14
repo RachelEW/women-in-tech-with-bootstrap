@@ -12,6 +12,10 @@ ul {
   list-style-type: none;
 }
 
+h2 {
+  color:  #d92f53;
+}
+
 #photo {
   padding: 0;
 }
@@ -23,4 +27,33 @@ ul {
 #colophon a {
   color: grey;
   text-decoration: underline;
+}
+
+.bio {
+  padding: 30px 15px;
+  background-color: #d4c2bb;
+}
+
+blockquote {
+  font-size: 30px;
+  text-align: center;
+  padding: 30px 50px;
+}
+
+blockquote::before {
+  content: '"';
+  font-size: 34px;
+  color: indigo;
+  font-weight: bold;
+  font-family: cursive;
+  padding: 10px;
+}
+
+blockquote::after {
+  content: '"';
+  font-size: 44px;
+  color: indigo;
+  font-weight: bold;
+  font-family: cursive;
+  padding: 10px;
 }
