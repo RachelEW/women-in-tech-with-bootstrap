@@ -150,7 +150,6 @@ blockquote::after {
 
 ul#footer li a:hover {
   text-decoration: underline;
-  padding: 40px;
   font-family: 'Ubuntu', sans-serif;
   color: white;
 }
