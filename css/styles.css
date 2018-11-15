@@ -3,6 +3,12 @@
   padding: 5px 10px;
 }
 
+#brand {
+  font-family: 'Ubuntu', sans-serif;
+  font-size: 24px;
+  color: #f43d3d;
+}
+
 #short-bio {
   padding: 120px;
 }
@@ -66,7 +72,7 @@ ul li a:hover {
 h2 {
   text-align: center;
   padding: 30px 0;
-  font-size: 46px;
+  font-size: 50px;
   font-family: 'Ubuntu', sans-serif;
 }
 
