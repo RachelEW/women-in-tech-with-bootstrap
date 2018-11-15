@@ -136,3 +136,7 @@ blockquote::after {
 #footer {
   background-color: #f43d3d;
 }
+
+#footer ul li a:hover {
+  font-weight: bold;
+}
