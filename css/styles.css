@@ -1,3 +1,8 @@
+dl, ol, ul {
+  margin-top: 0;
+  margin-bottom: 0;
+  }
+
 .navbar-nav {
   font-size: 18px;
   padding: 5px 10px;
@@ -61,7 +66,7 @@ ul li a {
   text-align: center;
 }
 
-ul li a:hover {
+ul#homepage li a:hover {
   text-decoration: none;
   padding: 40px;
   font-family: 'Ubuntu', sans-serif;
@@ -137,6 +142,7 @@ blockquote::after {
   background-color: #f43d3d;
 }
 
-#footer ul li a:hover {
+.end ul li a:hover {
   font-weight: bold;
+  colour: white;
 }
