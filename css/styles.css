@@ -17,7 +17,7 @@ ul li {
 }
 
 ul li strong {
-    color:  #d92f53;
+    color:  #f43d3d;
 }
 
 h1 {
@@ -28,7 +28,7 @@ h1 {
 #main-title {
   padding: 30px 0;
   text-align: center;
-  background-color: #d92f53;
+  background-color: #f43d3d;
 }
 
 h1 a {
@@ -59,7 +59,7 @@ ul li a:hover {
   text-decoration: none;
   padding: 40px;
   font-family: 'Ubuntu', sans-serif;
-  color: #d92f53;
+  color: #f43d3d;
   font-weight: bold;
 }
 
@@ -111,7 +111,7 @@ blockquote {
 blockquote::before {
   content: '"';
   font-size: 46px;
-  color: #d92f53;
+  color: #f43d3d;
   font-weight: bold;
   font-family: cursive;
   padding: 10px;
@@ -120,7 +120,7 @@ blockquote::before {
 blockquote::after {
   content: '"';
   font-size: 46px;
-  color: #d92f53;
+  color: #f43d3d;
   font-weight: bold;
   font-family: cursive;
   padding: 10px;
