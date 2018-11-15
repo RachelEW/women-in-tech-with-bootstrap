@@ -140,9 +140,17 @@ blockquote::after {
 
 #footer {
   background-color: #f43d3d;
+  padding-top: 5px;
+  padding-bottom: 5px;
 }
 
-.end ul li a:hover {
-  font-weight: bold;
-  colour: white;
+.end {
+  padding: 0;
+}
+
+ul#footer li a:hover {
+  text-decoration: underline;
+  padding: 40px;
+  font-family: 'Ubuntu', sans-serif;
+  color: white;
 }
