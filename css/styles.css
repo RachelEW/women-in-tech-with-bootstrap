@@ -23,7 +23,7 @@ ul li {
 }
 
 ul li strong {
-    color:  #f43d3d;
+  color: #f43d3d;
 }
 
 h1 {
@@ -97,6 +97,7 @@ h2 {
 #homepage {
   display: inline-flex;
 }
+
 .bio {
   padding: 30px 30px;
   background-color: #D3D3D3;
@@ -130,4 +131,8 @@ blockquote::after {
   font-weight: bold;
   font-family: cursive;
   padding: 10px;
+}
+
+#footer {
+  background-color: #f43d3d;
 }
