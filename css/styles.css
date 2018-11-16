@@ -143,8 +143,7 @@ blockquote::after {
 
 #footer {
   background-color: #343a40;
-  padding-top: 0px;
-  padding-bottom: 3px;
+  padding: 0 0 3px 0px;
 /*  border-top-style: solid;
   border-top-width: 2px;
   border-top-color: ; */
@@ -156,12 +155,22 @@ blockquote::after {
 
 #footer li a {
     font-size: 14px;
-    color: grey;
+    color: rgba(255,255,255,.5);
 }
 
 ul#footer li a:hover {
   text-decoration: underline;
   font-family: 'Ubuntu', sans-serif;
-  color: grey;
+  color: rgba(255,255,255,.5);
   font-size: 14px;
+}
+
+.sticky-footer-navbar {
+  margin: 0;
+  padding: 0;
+}
+
+.container-fluid footer {
+  padding-left: 0;
+  padding-right: 0;
 }
