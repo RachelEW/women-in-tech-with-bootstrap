@@ -144,9 +144,6 @@ blockquote::after {
 #footer {
   background-color: #343a40;
   padding: 0 0 3px 0px;
-/*  border-top-style: solid;
-  border-top-width: 2px;
-  border-top-color: ; */
 }
 
 .end {
@@ -154,14 +151,14 @@ blockquote::after {
 }
 
 #footer li a {
-    font-size: 14px;
-    color: rgba(255,255,255,.5);
+  font-size: 14px;
+  color: rgba(255, 255, 255, .5);
 }
 
 ul#footer li a:hover {
   text-decoration: underline;
   font-family: 'Ubuntu', sans-serif;
-  color: rgba(255,255,255,.5);
+  color: rgba(255, 255, 255, .5);
   font-size: 14px;
 }
 
