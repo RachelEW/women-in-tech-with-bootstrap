@@ -142,17 +142,26 @@ blockquote::after {
 }
 
 #footer {
-  background-color: #f43d3d;
-  padding-top: 5px;
-  padding-bottom: 5px;
+  background-color: #343a40;
+  padding-top: 0px;
+  padding-bottom: 3px;
+/*  border-top-style: solid;
+  border-top-width: 2px;
+  border-top-color: ; */
 }
 
 .end {
   padding: 0;
 }
 
+#footer li a {
+    font-size: 14px;
+    color: grey;
+}
+
 ul#footer li a:hover {
   text-decoration: underline;
   font-family: 'Ubuntu', sans-serif;
-  color: black;
+  color: grey;
+  font-size: 14px;
 }
